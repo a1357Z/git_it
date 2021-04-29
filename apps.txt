@@ -1,1 +1,2 @@
 apps
+watch movies
