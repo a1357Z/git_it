@@ -1,2 +1,3 @@
 apps
 play a game
+watch movies
